@@ -37,7 +37,7 @@ Operational platform for retail: admin panel, quoting, stock, clients and dashbo
 - JWT auth & CRUD integration via Node.js API  
 - Responsive design, filtering, navigation patterns  
 
-🔗 Repo (frontend): coming soon  
+🔗 Preview (frontend): [Artemisa-pvc](https://www.artemisa-pvc.com/)  
 🔗 Repo (API): coming soon
 
 ---
@@ -48,6 +48,7 @@ SPA built with Astro + Tailwind and a custom QR generation system.
 - Custom tooling for branded QR  
 - Lightweight static architecture  
 
+🔗 Preview: [Canela-Cakes](https://canelacakes.vercel.app/)
 🔗 https://github.com/Lunatico0/Canela-Cakes-menu
 
 ---
