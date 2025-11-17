@@ -1,63 +1,61 @@
 # 👋 Hi, I'm Patricio Pittana
 
-**Frontend Engineer (React/TypeScript)** focused on building clean, scalable UI architectures.  
-I design reusable component systems, predictable state flows, and frontend solutions aligned with real business workflows.  
-I support my work with light backend using **Node.js/Express** when needed (auth, APIs, integrations).
+**Frontend Engineer (React / TypeScript)** focused on clean UI architecture, reusable component systems and predictable state management.  
+I build interfaces that solve real operational problems, supported when needed by lightweight **Node.js/Express** APIs.
 
-I’ve built operational tools for **logistics**, **e-commerce**, and **small business workflows**, both web and desktop (Electron).
+I’ve developed tools for **logistics**, **retail**, **inventory systems**, and **small-business workflows**, both web and desktop (Electron).
 
 ---
 
-## 🧩 Core Tech Stack
-- **React.js (TypeScript)**
-- Next.js · Astro  
-- State Management (Context, Reducers)  
-- Node.js (APIs) · Express  
+## 🧩 Tech Stack
+**Frontend**
+- React.js (TypeScript) · Next.js · Astro  
+- State Management: Context API, Reducers  
+- Tailwind CSS · UI Architecture · Responsive Design  
+
+**Backend (lightweight)**
+- Node.js · Express  
 - MongoDB / NoSQL  
-- Tailwind CSS  
-- Electron.js (Desktop Apps)
+
+**Other**
+- Electron.js (Desktop Apps)  
+- Git · GitHub  
+- Firebase · Vercel · Render  
+- Jest · Postman  
+- Figma (UI/UX)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### **Control de Cubiertas — Fleet Tire Management System**
-Desktop app (Electron + React + MongoDB) used for tire lifecycle tracking, maintenance logs and fleet inventory.
-- Full UI architecture in React with reusable components and predictable state flows.  
-- Offline desktop build using Electron.  
-- CRUD, history tracking and operational workflows implemented with Node.js + MongoDB.
+Desktop app built with **Electron + React + MongoDB** for tire lifecycle, maintenance logs and fleet inventory.  
+- UI architecture with reusable components and predictable flows  
+- Offline-first desktop version using Electron  
+- CRUD, history tracking and operational flows using Node.js + MongoDB  
 
-🔗 Repository: *(private/client-owned — demo available on request)*
+🔒 *Private client repo — demos available on request*
 
 ---
 
 ### **Artemisa — E-Commerce + ERP Light**
-Operational platform for retail: admin panel, quoting, stock, clients and dashboards.
-- React + Tailwind complete admin interface  
-- JWT auth & CRUD integration via Node.js API  
-- Responsive design, filtering, navigation patterns  
+Operational platform for retail: admin panel, quoting, stock, clients and dashboards.  
+- React + Tailwind full admin interface  
+- JWT auth & CRUD integration with Node.js API  
+- Navigation patterns, validations & responsive UI  
 
-🔗 Preview (frontend): [Artemisa-pvc](https://www.artemisa-pvc.com/)  
-🔗 Repo (API): coming soon
+🔗 Website: https://www.artemisa-pvc.com/
 
 ---
 
 ### **CanelaCakes — Digital Menu + QR Tool**
-SPA built with Astro + Tailwind and a custom QR generation system.
+SPA built with **Astro + Tailwind** with custom QR generation tools.  
 - Mobile-first UX  
-- Custom tooling for branded QR  
+- Custom branded QR tool  
 - Lightweight static architecture  
 
-🔗 Preview: [Canela-Cakes](https://canelacakes.vercel.app/)
-🔗 https://github.com/Lunatico0/Canela-Cakes-menu
-
----
-
-## 🛠️ Additional Tools
-- Git · GitHub  
-- Firebase · Vercel · Render  
-- Jest · Postman  
-- Figma (UI/UX basics)
+🔗 Live Demo: https://canelacakes.vercel.app  
+🔗 Repo: https://github.com/Lunatico0/Canela-Cakes-menu
 
 ---
 
@@ -69,5 +67,4 @@ SPA built with Astro + Tailwind and a custom QR generation system.
 ---
 
 ### 📌 Note
-Some commercial/client projects are private. I can provide demos or walkthroughs upon request.
-
+Some commercial projects are private. I can provide demos or walkthroughs if needed.
