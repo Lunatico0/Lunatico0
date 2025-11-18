@@ -3,7 +3,7 @@
 **Frontend Engineer (React / TypeScript)** focused on clean UI architecture, reusable component systems and predictable state management.  
 I build interfaces that solve real operational problems, supported when needed by lightweight **Node.js/Express** APIs.
 
-I’ve developed tools for **logistics**, **retail**, **inventory systems**, and **small-business workflows**, both web and desktop (Electron).
+I’ve developed tools for logistics, retail workflows, inventory & maintenance tracking, and small-business operations, both web and desktop (Electron).
 
 ---
 
@@ -13,7 +13,7 @@ I’ve developed tools for **logistics**, **retail**, **inventory systems**, and
 - State Management: Context API, Reducers  
 - Tailwind CSS · UI Architecture · Responsive Design  
 
-**Backend (lightweight)**
+**Backend (API-focused)**
 - Node.js · Express  
 - MongoDB / NoSQL  
 
